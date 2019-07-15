@@ -1,7 +1,7 @@
 
 // Please make sure to use the make command according
 // to the desired library
-// cgrasp.h		: compile
+// cgrasp.h	: compile
 // pcgrasp.h	: pcompile
 // gpcgrasp.h	: gpcompile
 

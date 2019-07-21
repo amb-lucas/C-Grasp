@@ -1,7 +1,7 @@
 
 ###########################################
 # . . . . . PLEASE NOTE TO USE . . . . . .#
-# . . . . . . target=<name>	. . . . . . . #
+# . . . . . . target=<name> . . . . . . . #
 # WHEN INVOCKING THE COMMANDS ON TERMINAL #
 ###########################################
 

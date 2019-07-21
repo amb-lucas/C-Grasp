@@ -1,7 +1,7 @@
 
 ###########################################
-# 			PLEASE NOTE TO USE			  #
-# 			  target=<name>				  #
+# . . . . . PLEASE NOTE TO USE . . . . . .#
+# . . . . . . target=<name>	. . . . . . . #
 # WHEN INVOCKING THE COMMANDS ON TERMINAL #
 ###########################################
 
@@ -13,20 +13,6 @@ CFLAGS = -Ofast
 
 # Flags for parallel C-Grasp version
 PFLAGS = -fopenmp
-
-
-# Compiles for the default version of C-Grasp
-#compile:
-#	$(CC) $(target).cpp -o $(target) $(CFLAGS)
-
-# Compiles for the parallel version of C-Grasp
-#pcompile:
-#	$(CC) $(target).cpp -o $(target) $(CFLAGS) $(PFLAGS)
-
-# Compiles for the GPU parallel version of C-Grasp
-#gpcompile:
-#	$(CC) $(target).cpp -o $(target) $(CFLAGS) $(PFLAGS)
-
 
 # Compiles the function only target to be executed
 # by the default version of C-Grasp
